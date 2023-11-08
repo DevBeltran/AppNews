@@ -15,6 +15,7 @@
 		EBD9A4F32AF901CD004CEAEE /* AppNewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD9A4F22AF901CD004CEAEE /* AppNewsTests.swift */; };
 		EBD9A4FD2AF901CD004CEAEE /* AppNewsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD9A4FC2AF901CD004CEAEE /* AppNewsUITests.swift */; };
 		EBD9A4FF2AF901CD004CEAEE /* AppNewsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD9A4FE2AF901CD004CEAEE /* AppNewsUITestsLaunchTests.swift */; };
+		EBFF065C2AFBAAF100E65008 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFF065B2AFBAAF100E65008 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		EBD9A4F82AF901CD004CEAEE /* AppNewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppNewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBD9A4FC2AF901CD004CEAEE /* AppNewsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppNewsUITests.swift; sourceTree = "<group>"; };
 		EBD9A4FE2AF901CD004CEAEE /* AppNewsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppNewsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EBFF065B2AFBAAF100E65008 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				EBD9A4E12AF901CC004CEAEE /* ContentView.swift */,
 				EBD9A4E32AF901CC004CEAEE /* Item.swift */,
 				EBD9A4E52AF901CD004CEAEE /* Assets.xcassets */,
+				EBFF065B2AFBAAF100E65008 /* Model.swift */,
 				EBD9A4E72AF901CD004CEAEE /* Preview Content */,
 			);
 			path = AppNews;
@@ -263,6 +266,7 @@
 				EBD9A4E22AF901CC004CEAEE /* ContentView.swift in Sources */,
 				EBD9A4E42AF901CC004CEAEE /* Item.swift in Sources */,
 				EBD9A4E02AF901CC004CEAEE /* AppNewsApp.swift in Sources */,
+				EBFF065C2AFBAAF100E65008 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
